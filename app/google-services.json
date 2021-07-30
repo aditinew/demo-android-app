@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055618334630",
+    "project_id": "fir-android-app-10462",
+    "storage_bucket": "fir-android-app-10462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055618334630:android:5e2cb8f72afcb34b791967",
+        "android_client_info": {
+          "package_name": "com.example.demoandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055618334630-a361ke8v5ukqhjfk353qf6phjfc328nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOetDzgzoq9VAwKyNhFuzp6OQTnYiJKYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055618334630-a361ke8v5ukqhjfk353qf6phjfc328nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
